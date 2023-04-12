@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/113493052/231577549-1cceb9a0-fde2-4c93-b15a-0b9ac81ce08d.png)
 
 <!--
 **alemulli/alemulli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ I have recently graduated from the Virginia Tech Coding Bootcamp powered by Full
 
 - ⚡ Fun facts: ... I lick fossils (you can ask me about that, I swear there is a good explaination 🤪), I have traveled to see an active volcano eruption, and I love video games!
 
-Languages and Tools:
+**Languages and Tools:**
 
 <div align="center">
 
