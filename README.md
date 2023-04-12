@@ -29,5 +29,5 @@ I have recently graduated from the Virginia Tech Coding Bootcamp powered by Full
 
 Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemulli&bg_color=181818)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemulli&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
