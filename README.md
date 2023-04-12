@@ -28,5 +28,6 @@ I have recently graduated from the Virginia Tech Coding Bootcamp powered by Full
 - ⚡ Fun facts: ... I lick fossils (you can ask me about that, I swear there is a good explaination 🤪), I have traveled to see an active volcano eruption, and I love video games!
 
 Languages and Tools:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemulli)](https://github.com/anuraghazra/github-readme-stats)
 
