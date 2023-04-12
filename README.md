@@ -29,7 +29,7 @@ I have recently graduated from the Virginia Tech Coding Bootcamp powered by Full
 
 Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemulli&layout=compact&bg_color=0d1117&text_color=e6edf3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemulli&layout=compact&bg_color=0d1117&text_color=e6edf3&align=center)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
