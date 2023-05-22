@@ -23,7 +23,7 @@ I am a former teacher who decided to learn coding. Learning is what I am most pa
 
 - 🌱 I’m currently learning ... Typescript and taking CS50 Computer Science Course. 
 
-- 📫 How to reach me: ... You can reach me on <a href="https://www.linkedin.com/in/alexa-mullin/">LinkedIn</a>, I am currently looking for full-time work. 
+<!-- - 📫 How to reach me: ... You can reach me on <a href="https://www.linkedin.com/in/alexa-mullin/">LinkedIn</a>, I am currently looking for full-time work.  -->
 
 - ⚡ Fun facts: ... I lick fossils (you can ask me about that, I swear there is a good explaination 🤪), I have traveled to see an active volcano eruption, and I love video games!
 
