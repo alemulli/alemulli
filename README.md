@@ -21,7 +21,7 @@ I am a former teacher who decided to learn coding. Learning is what I am most pa
 
 <!-- I have recently graduated from the Virginia Tech Coding Bootcamp powered by Fullstack Academy. While I still fully intend to continue learning independently, I am now looking for my place in the field. My goal is to utilize my newfound programming skills while also leveraging the skills I developed in the multifaceted and demanding education environment. -->
 
-- 🌱 I’m currently learning ... Typescript and taking CS50 Computer Science Course. 
+- 🌱 I’m currently learning ... Wordpress, php, timber, twig for my work at Leadpoint Digital.  
 
 <!-- - 📫 How to reach me: ... You can reach me on <a href="https://www.linkedin.com/in/alexa-mullin/">LinkedIn</a>, I am currently looking for full-time work.  -->
 
